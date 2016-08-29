@@ -1,1 +1,5 @@
+---
+title: Document Center
+---
+
 # scrabble
